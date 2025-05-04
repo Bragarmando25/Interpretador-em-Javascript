@@ -1,7 +1,7 @@
 # Interpretador-em-Javascript <br>
 
 A REPL(Read, Eval, Print, Loop) interpreter in Javascript, capable of performing the following operations: <br>
-  **Mathematic expressions (+, -, *, /).** <br>
+  **Mathematic expressions (+, -, x, /).** <br>
   **Declare variables with values of mathematic expressions.** <br>
   **Display the variations and values ​​when invoked.** <br>
 
