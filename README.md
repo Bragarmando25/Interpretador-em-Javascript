@@ -6,7 +6,7 @@ A REPL(Read, Eval, Print, Loop) interpreter in Javascript, capable of performing
   **Display the variations and values ​​when invoked.** <br>
 
 Um interpretador REPL (Read, Eval, Print, Loop) em Javascript, capaz de realizar as operações de: <br> 
-  **Expressões matemáticas (+, -, *, /).** <br>
+  **Expressões matemáticas (+, -, x, /).** <br>
   **Declarar variáveis com valores de expressões matemáticas.** <br>
   **Exibir as variárevis e valores quando invocadas.** <br>
 
